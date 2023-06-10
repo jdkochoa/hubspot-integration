@@ -1,0 +1,5 @@
+
+@MicronautTest
+public class ControllerTester {
+    
+}
